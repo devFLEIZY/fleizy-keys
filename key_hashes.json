@@ -4,26 +4,5 @@
       "active": true,
       "expires_at": "2026-01-01T00:00:00",
       "type": "admin"
-    },
-    "881851c8441de22bdefac455ef5977075718b530b88dce32e050a59f6958654d": {
-      "active": true,
-      "expires_at": "2025-11-26T20:04:30.147722",
-      "type": "user"
-    },
-    "50be2afef9bf172dffd9f594711576fa23a51b2e9733b832595f8e007b22bdf4": {
-      "active": true,
-      "expires_at": "2025-11-26T20:07:41.489228",
-      "type": "user"
-    },
-    "1387801cf29a7f6dcaf26dc0dd7360701a29508cb7075c432ad15f8f2b60cba5": {
-      "active": true,
-      "expires_at": "2025-11-26T20:10:54.330074",
-      "type": "user"
-    },
-    "37aee41bbfb1fc4a51a75a761ad93fd73ace77d026071aaa284f00e97e6131e2": {
-      "active": true,
-      "expires_at": "2025-11-26T20:11:30.417049",
-      "type": "user"
     }
-  }
 }
