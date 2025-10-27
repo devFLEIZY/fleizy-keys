@@ -1,0 +1,19 @@
+{
+  "key_hashes": {
+    "8c6b9a7d3f1e5c2a9b8d4e6f2a1c3b7e9d5f8a2c4b6e9d1f3a5c7b8e2d4f6a1": {
+      "active": true,
+      "expires_at": "2025-01-20T10:00:00",
+      "type": "user"
+    },
+    "a23a3ac1e4db94a6c2ff7d19cf14a6fd4ae2a4e1d58a158a6e3d6e87afeb2b47": {
+      "active": true, 
+      "expires_at": "2026-01-01T00:00:00",
+      "type": "admin"
+    },
+    "f4e6d8c2b0a4e6c8d2b0f4e6d8c2b0a4e6c8d2b0f4e6d8c2b0a4e6c8d2b0f4": {
+      "active": true,
+      "expires_at": "2025-01-01T00:00:00",
+      "type": "demo"
+    }
+  }
+}
