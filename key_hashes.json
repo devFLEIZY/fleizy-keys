@@ -11,7 +11,7 @@
       "type": "user"
     },
     "95bf6c6a9d24ccb925255e753c436922c6055eb1a3f053fb5486e290c0c12c1d": {
-      "active": true,
+      "active": false,
       "expires_at": "2025-11-26T20:44:20.052486",
       "type": "user"
     }
