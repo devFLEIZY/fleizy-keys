@@ -14,6 +14,13 @@
       "active": false,
       "expires_at": "2025-11-26T20:44:20.052486",
       "type": "user"
+    },
+    "d751c6282a70caa8c27680f0ac25f64349eb0c01a1b0d3b79d72576240c733c1": {
+      "active": true,
+      "expires_at": "2025-11-26T21:04:44.890930",
+      "type": "user",
+      "max_activations": 1,
+      "activated_machines": []
     }
   }
 }
