@@ -7,13 +7,8 @@
     },
     "c8d4ca6634da44bc78f430db70efe9d53a07d7a7144ff2c219b0e1e8f13ca4f4": {
       "active": true,
-      "expires_at": "2025-01-01T00:00:00", 
+      "expires_at": "2025-01-01T00:00:00",
       "type": "demo"
-    },
-    "8c6b9a7d3f1e5c2a9b8d4e6f2a1c3b7e9d5f8a2c4b6e9d1f3a5c7b8e2d4f6a1": {
-      "active": true,
-      "expires_at": "2025-01-20T10:00:00",
-      "type": "user"
     }
   }
 }
