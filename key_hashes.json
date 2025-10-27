@@ -3,7 +3,10 @@
     "a23a3ac1e4db94a6c2ff7d19cf14a6fd4ae2a4e1d58a158a6e3d6e87afeb2b47": {
       "active": true,
       "expires_at": "2026-01-01T00:00:00",
-      "type": "admin"
+      "type": "admin",
+      "activated_machines": [
+        "669588CE-A19A-A0BC-9028-04D4C4027738"
+      ]
     },
     "881851c8441de22bdefac455ef5977075718b530b88dce32e050a59f6958654d": {
       "active": true,
