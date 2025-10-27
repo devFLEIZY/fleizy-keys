@@ -4,46 +4,5 @@
       "active": true,
       "expires_at": "2026-01-01T00:00:00",
       "type": "admin"
-    },
-    "881851c8441de22bdefac455ef5977075718b530b88dce32e050a59f6958654d": {
-      "active": true,
-      "expires_at": "2025-11-26T20:04:30.147722",
-      "type": "user"
-    },
-    "50be2afef9bf172dffd9f594711576fa23a51b2e9733b832595f8e007b22bdf4": {
-      "active": true,
-      "expires_at": "2025-11-26T20:07:41.489228",
-      "type": "user"
-    },
-    "1387801cf29a7f6dcaf26dc0dd7360701a29508cb7075c432ad15f8f2b60cba5": {
-      "active": true,
-      "expires_at": "2025-11-26T20:10:54.330074",
-      "type": "user"
-    },
-    "4d08b99934a2c5bdb4c3fe95bc2170192ca931ceb3d674144edaf6bcb593c960": {
-      "active": true,
-      "expires_at": "2025-11-26T20:15:18.593404",
-      "type": "user"
-    },
-    "f6bcf7c057df8877d07a6b74dfd1b44dececceee210a72de947b42fd9bbc24db": {
-      "active": true,
-      "expires_at": "2025-11-26T20:17:10.015743",
-      "type": "user"
-    },
-    "2e13f9c2a9ce6dda0dad74abb7009586521543340575572e2338f8178d17c8a5": {
-      "active": true,
-      "expires_at": "2025-11-26T20:18:13.831098",
-      "type": "user"
-    },
-    "81c10350974c1c2c01de2c800e0041dd5520ebb9bae27860ca04cb70cb0c37a6": {
-      "active": true,
-      "expires_at": "2025-11-26T20:19:15.821984",
-      "type": "user"
-    },
-    "a26ac3c3c2bd4ea23deb5993e3cc0c51c2e4da57556d67d12d7c3e7248114315": {
-      "active": true,
-      "expires_at": "2025-11-26T20:19:40.038968",
-      "type": "user"
     }
-  }
 }
