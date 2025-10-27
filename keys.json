@@ -1,3 +1,11 @@
 {
-  "generated_keys": []
+  "generated_keys": [
+    {
+      "key": "FLEIZY-4C4F324F-39C",
+      "active": false,
+      "generated_at": "2025-10-27T20:19:15.199985",
+      "expires_at": "2025-11-26T20:19:15.199985",
+      "note": "Сгенерирован 2025-10-27 20:19"
+    }
+  ]
 }
