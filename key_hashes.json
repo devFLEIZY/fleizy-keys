@@ -26,6 +26,13 @@
       "activated_machines": [
         "669588CE-A19A-A0BC-9028-04D4C4027739"
       ]
+    },
+    "278d1352d5c430c79fb08616a79accaf0f5408a8e4fa40fee6df19676a983bc7": {
+      "active": true,
+      "expires_at": "2025-11-26T21:10:23.815684",
+      "type": "user",
+      "max_activations": 1,
+      "activated_machines": []
     }
   }
 }
