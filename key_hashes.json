@@ -4,5 +4,11 @@
       "active": true,
       "expires_at": "2026-01-01T00:00:00",
       "type": "admin"
+    },
+    "881851c8441de22bdefac455ef5977075718b530b88dce32e050a59f6958654d": {
+      "active": true,
+      "expires_at": "2025-11-26T20:04:30.147722",
+      "type": "user"
     }
+  }
 }
